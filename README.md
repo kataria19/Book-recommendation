@@ -2,8 +2,6 @@
 
 A collaborative filtering-based book recommendation system using K-Nearest Neighbors (KNN) algorithm, built with Python and machine learning libraries.
 
-![Rating Distribution](https://i.imgur.com/JkpeN0a.png) *(example visualization)*
-
 ## 🛠️ Technologies Used
 - **Python 3**
 - Pandas (Data Manipulation)
