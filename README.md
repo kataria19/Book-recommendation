@@ -1,4 +1,4 @@
-# 📚 Book Recommendation System
+#  Book Recommendation System
 
 A collaborative filtering-based book recommendation system using K-Nearest Neighbors (KNN) algorithm, built with Python and machine learning libraries.
 
